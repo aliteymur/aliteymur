@@ -37,12 +37,4 @@ I hold a Ph.D. in Medical Data Science and have 7+ years building AI and image-p
 
 ---
 
-### 📊 GitHub Stats
-
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
 > Researcher's rigor, builder's curiosity — bridging AI and full-stack development.

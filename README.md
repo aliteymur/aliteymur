@@ -8,7 +8,7 @@ I hold a Ph.D. in Medical Data Science and have 7+ years building AI and image-p
 - 🌱 Currently learning: modern full-stack web & mobile — JavaScript/TypeScript, React, React Native, Node.js
 - 🧠 Ask me about: applied AI, computer vision, turning research into working software
 - 📄 Published researcher & international patent holder
-- 📫 Reach me: [ateymurk@gmail.com](mailto:ateymurk@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ali-teymur-kahraman/)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ali-teymur-kahraman/)
 - 📍 Málaga, Spain
 
 ---
